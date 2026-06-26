@@ -1,5 +1,4 @@
-아래 내용을 메모장에 전체 복사해서 붙여넣기 하고 저장(Ctrl+S)해요:
-yamlname: Deploy Quartz site to GitHub Pages
+name: Deploy Quartz site to GitHub Pages
 
 on:
   push:
